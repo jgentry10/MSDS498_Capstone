@@ -21,7 +21,7 @@ Within Google Cloud, I'll follow these steps to deploy the application to a Kube
 <br />
 
 ![Architecture Diagram](MSDS_498_P1_JPG_Diagram_R1.png)
-
+The steps of the diagram can be followed in sequence:
 <br />
 Step 1: Create a VM instance.
 <br />
