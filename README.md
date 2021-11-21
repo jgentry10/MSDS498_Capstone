@@ -10,15 +10,15 @@ In order to complete the project, we will use the following technologies deploye
 
 <br />
 
-   Flask: a micro-web framework, known for its lightweight and simplicity. We will use it to create a REST API around our model.
+  - Flask: a micro-web framework, known for its lightweight and simplicity. We will use it to create a REST API around our model.
 
 <br />
 
-  Docker: The most popular containerization technology out there. We will use it to ensure our code runs in any environment with Docker.
+  - Docker: The most popular containerization technology out there. We will use it to ensure our code runs in any environment with Docker.
 
 <br />
 
-  Kubernetes: The most widely adopted container orchestration technology. We will use it to automate the scaling of our serving layer.
+  - Kubernetes: The most widely adopted container orchestration technology. We will use it to automate the scaling of our serving layer.
 
 <br />
 
