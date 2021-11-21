@@ -1,4 +1,4 @@
-# MSDS 498 Capstone Project - Working with Docker, Kubernates and GCP
+# MSDS 498 Capstone Project
 
 ## Assignment
 - Create a customized Docker container from the current version of Python that deploys a python application.
