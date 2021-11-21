@@ -1,8 +1,8 @@
 # MSDS 498 Capstone Project
-<br/>
+<br />
 # Project Overview
 In order to complete the project, we will use the following technologies deployed on to a VM hosted within Google Cloud.
-<br/>
+<br />
 Flask: a micro-web framework, known for its lightweight and simplicity. We will use it to create a REST API around our model.
 <br/>
 Docker: The most popular containerization technology out there. We will use it to ensure our code runs in any environment with Docker.
