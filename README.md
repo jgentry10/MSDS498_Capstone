@@ -6,7 +6,7 @@
 
 <br />
 
-In order to complete the project, we will use the following technologies deployed on to a VM hosted within Google Cloud.
+In order to complete the project, the following technologies were deployed on to a newly created VM hosted within Google Cloud.
 
 <br />
 
