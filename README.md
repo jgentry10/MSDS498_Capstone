@@ -8,7 +8,7 @@
 <br />
 
 ## Project Overview
-The purpose of the project is to use several different cloud technologies to deploy a flower prediction app, where a user can input specific details about the flower related to the measurements of the flowers stem, pedal and sepal.
+The purpose of the project is to use the different cloud technologies laid out in the assignment requirements to deploy a flower prediction app, where a user can input specific details about the flower related to the measurements of the flowers stem, pedal and sepal.
 
 In order to complete the project, the following technologies were deployed on to a newly created VM hosted within Google Cloud.
 <br />
