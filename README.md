@@ -17,6 +17,8 @@ In order to complete the project, the following technologies were deployed on to
 <br />
 Within Google Cloud, I'll follow these steps to deploy the application to a Kubernates cluster. 
 <br />
+![Architecture Diagram](MSDS_498_P1_JPG_Diagram.png)
+<br />
 Step 1: Create a VM instance.
 <br />
 Step 2: Prepare the VM instance. Install all the necessary software and add the required files to it.
@@ -32,4 +34,4 @@ Step 6: Run the prediction model container image with Kubernetes and make it acc
 Step 7: Sent a POST request to the global URL and receive the predictions.
 <br />
 
-![Architecture Diagram](MSDS_498_P1_JPG_Diagram.png)
+
