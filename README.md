@@ -1,6 +1,10 @@
 # MSDS 498 Capstone Project
-
 <br />
+Assignment:
+- Create a customized Docker container from the current version of Python that deploys a python application.
+- Push image to DockerHub or Amazon ECR or Google Container Registry.
+- Pull image down and run it on a cloud platform cloud shell:  Google Cloud Shell or AWS Cloud9.
+- Deploy an application to managed Kubernetes cluster.
 
 ## Project Overview
 
