@@ -1,32 +1,17 @@
 # MSDS 498 Capstone Project
-<br />
-Assignment:
-<br />
+
+## Assignment
 - Create a customized Docker container from the current version of Python that deploys a python application.
-<br />
 - Push image to DockerHub or Amazon ECR or Google Container Registry.
-<br />
 - Pull image down and run it on a cloud platform cloud shell:  Google Cloud Shell or AWS Cloud9.
-<br />
 - Deploy an application to managed Kubernetes cluster.
 <br />
 
 ## Project Overview
-
-<br />
-
 In order to complete the project, the following technologies were deployed on to a newly created VM hosted within Google Cloud.
-
 <br />
-
   - Flask: a micro-web framework, known for its lightweight and simplicity. We will use it to create a REST API around our model.
-
-<br />
-
   - Docker: The most popular containerization technology out there. We will use it to ensure our code runs in any environment with Docker.
-
-<br />
-
   - Kubernetes: The most widely adopted container orchestration technology. We will use it to automate the scaling of our serving layer.
 
 <br />
