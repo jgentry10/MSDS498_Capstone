@@ -32,4 +32,4 @@ Step 6: Run the prediction model container image with Kubernetes and make it acc
 Step 7: Sent a POST request to the global URL and receive the predictions.
 <br />
 
-!Architecture Diagram(MSDS_498_P1_JPG_Diagram.png)
+![Architecture Diagram](MSDS_498_P1_JPG_Diagram.png)
