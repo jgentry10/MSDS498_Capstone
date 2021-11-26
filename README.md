@@ -18,9 +18,12 @@ In order to complete the project, the following technologies were deployed on to
   - Google Cloud Storage
   - Scikit-Learn
 <br />
-We will use an Iris Flower Dataset and a Decision Tree Classifier to identify different Iris Flower species based on the length and width of the flowers sepal and petal. After classifying the flower, we can save the classification model locally into a pickle file for using later for our prediction model. The pickle file contains the model parameters needed to make a prediction for the flower species given its characteristics. 
+We will use the technologies listed to import an Iris Flower Dataset and then use a Decision Tree Classifier to identify different Iris Flower species based on the length and width of the flowers sepal and petal. After classifying the flower, we can save the classification model locally into a pickle file for using later for our prediction model. The pickle file contains the model parameters needed to make a prediction for the flower species given its characteristics. <br />
+
 <br />
+
 Within Google Cloud, I'll follow these steps to deploy the application to a Kubernates cluster. 
+
 <br />
 
 ![Architecture Diagram](MSDS_498_P1_JPG_Diagram_R1.png)
