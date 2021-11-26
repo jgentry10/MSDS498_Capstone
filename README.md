@@ -13,8 +13,12 @@ The purpose of the project is to use the different cloud technologies laid out i
 In order to complete the project, the following technologies were deployed on to a newly created VM hosted within Google Cloud.
 <br />
   - Flask: Used to create a REST API around the model.
-  - Docker: Used to ensure code runs in any environment with Docker.
-  - Kubernetes: Used to automate the scaling of the serving layer.
+  - Docker in Google Compute: Used to ensure code runs in any environment with Docker.
+  - Kubernetes in Google Kubernates: Used to automate the scaling of the serving layer.
+  - Google Cloud Storage
+  - Scikit-Learn
+
+
 
 <br />
 Within Google Cloud, I'll follow these steps to deploy the application to a Kubernates cluster. 
